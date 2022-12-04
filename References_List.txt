@@ -1,0 +1,100 @@
+@article{fernando2014subspace,
+  title={Subspace alignment for domain adaptation},
+  author={Fernando, Basura and Habrard, Amaury and Sebban, Marc and Tuytelaars, Tinne},
+  journal={arXiv preprint arXiv:1409.5241},
+  year={2014}
+}
+
+@inproceedings{belanche2013developments,
+  title={Developments in kernel design},
+  author={Belanche Mu{\~n}oz, Luis Antonio},
+  booktitle={ESANN 2013 proceedings: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning: Bruges (Belgium), 24-26 April 2013},
+  pages={369--378},
+  year={2013}
+}
+
+@article{de2020metric,
+  title={metric-learn: Metric Learning Algorithms in Python.},
+  author={De Vazelhes, William and Carey, CJ and Tang, Yuan and Vauquier, Nathalie and Bellet, Aur{\'e}lien},
+  journal={J. Mach. Learn. Res.},
+  volume={21},
+  pages={138--1},
+  year={2020}
+}
+@article{van2009dimensionality,
+  title={Dimensionality reduction: a comparative},
+  author={Van Der Maaten, Laurens and Postma, Eric and Van den Herik, Jaap and others},
+  journal={J Mach Learn Res},
+  volume={10},
+  number={66-71},
+  pages={13},
+  year={2009}
+}
+@article{AYESHA202044,
+title = {Overview and comparative study of dimensionality reduction techniques for high dimensional data},
+journal = {Information Fusion},
+volume = {59},
+pages = {44-58},
+year = {2020},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2020.01.005},
+url = {https://www.sciencedirect.com/science/article/pii/S156625351930377X},
+author = {Shaeela Ayesha and Muhammad Kashif Hanif and Ramzan Talib},
+keywords = {Dimensionality reduction, Features, High dimensional data, Linear techniques, Nonlinear techniques}
+}
+@article{RITCHIE2001138,
+title = {Multifactor-Dimensionality Reduction Reveals High-Order Interactions among Estrogen-Metabolism Genes in Sporadic Breast Cancer},
+journal = {The American Journal of Human Genetics},
+volume = {69},
+number = {1},
+pages = {138-147},
+year = {2001},
+issn = {0002-9297},
+doi = {https://doi.org/10.1086/321276},
+url = {https://www.sciencedirect.com/science/article/pii/S0002929707614530},
+author = {Marylyn D. Ritchie and Lance W. Hahn and Nady Roodi and L. Renee Bailey and William D. Dupont and Fritz F. Parl and Jason H. Moore}
+}
+
+@inproceedings{peluffo2014unsupervised,
+author = {Peluffo, Diego and Lee, John and Verleysen, Michel and Rodríguez, José and Castellanos-Dominguez, German},
+year = {2014},
+month = {01},
+pages = {},
+title = {Unsupervised relevance analysis for feature extraction and selection A distance-based approach for feature relevance},
+journal = {ICPRAM 2014 - Proceedings of the 3rd International Conference on Pattern Recognition Applications and Methods}
+}
+@inproceedings{peluffo2014generalizedkernel,
+author = {Peluffo, Diego and Lee, John and Verleysen, Michel},
+year = {2014},
+month = {12},
+pages = {},
+title = {Generalized kernel framework for unsupervised spectral methods of dimensionality reduction},
+doi = {10.1109/CIDM.2014.7008664}
+}
+@book{learningWithKernelsBook,
+author = {Schölkopf, Bernhard and Smola, A.J.},
+year = {2001},
+month = {01},
+pages = {},
+title = {Smola, A.: Learning with Kernels - Support Vector Machines, Regularization, Optimization and Beyond. MIT Press, Cambridge, MA},
+volume = {98},
+journal = {Journal of The American Statistical Association - J AMER STATIST ASSN}
+}
+@article{guillaumeBernardRmx,
+author = {Lee, John and Renard, Emilie and Bernard, Guillaume and Dupont, Pierre and Verleysen, Michel},
+year = {2013},
+month = {07},
+pages = {92–108},
+title = {Type 1 and 2 mixtures of Kullback–Leibler divergences as cost functions in dimensionality reduction based on similarity preservation},
+volume = {112},
+journal = {Neurocomputing},
+doi = {10.1016/j.neucom.2012.12.036}
+}
+
+@INPROCEEDINGS{bigdata8748774,
+author={Ahmad, Saba and Singh, Paramdeep and Sagar, Anil Kumar},  booktitle={2018 International Conference on Advances in Computing, Communication Control and Networking (ICACCCN)},   title={A Survey on Big Data Analytics},   year={2018},  volume={},  number={},  pages={256-260},  doi={10.1109/ICACCCN.2018.8748774}}
+
+@INPROCEEDINGS{dr8642776,  author={Anand, Anuj and Haque, Md Amaan and Alex, John Sahaya Rani and Venkatesan, Nithya},  booktitle={2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)},   title={Evaluation of Machine learning and Deep learning algorithms combined with dimentionality reduction techniques for classification of Parkinson’s Disease},   year={2018},  volume={},  number={},  pages={342-347},  doi={10.1109/ISSPIT.2018.8642776}}
+
+@INPROCEEDINGS{bgchallenges8820282,  author={Pandey, Kamlesh Kumar and shukla, Diwakar},  booktitle={2018 8th International Conference on Communication Systems and Network Technologies (CSNT)},   title={Challenges of Big Data to Big Data Mining with their Processing Framework},   year={2018},  volume={},  number={},  pages={89-94},  doi={10.1109/CSNT.2018.8820282}}
+
